@@ -1,4 +1,4 @@
-# Data Jobs Dashboard w/ Power BI
+# Data Jobs Dashboard with Power BI
 
 [![Data Jobs Dashboard](images/dash1.png)](https://app.powerbi.com/groups/me/reports/e4c993be-4b4d-45b8-8f64-aa502b1bfa6a?ctid=cbb8585a-58be-4c67-a9e8-aa46ea967bb1&pbi_source=linkShare&bookmarkGuid=481be0bf-92d1-4e53-968c-93ecc5e68b0a)
 
