@@ -1,6 +1,6 @@
 # Data Jobs Dashboard with Power BI
 
-[![Data Jobs Dashboard](images/dash1.png)](https://app.powerbi.com/groups/me/reports/e4c993be-4b4d-45b8-8f64-aa502b1bfa6a?ctid=cbb8585a-58be-4c67-a9e8-aa46ea967bb1&pbi_source=linkShare&bookmarkGuid=481be0bf-92d1-4e53-968c-93ecc5e68b0a)
+[![Data Jobs Dashboard](images/dash3.png)](https://app.powerbi.com/groups/me/reports/e4c993be-4b4d-45b8-8f64-aa502b1bfa6a?ctid=cbb8585a-58be-4c67-a9e8-aa46ea967bb1&pbi_source=linkShare&bookmarkGuid=481be0bf-92d1-4e53-968c-93ecc5e68b0a)
 
 
 ### Click below to visit the dashboard on Power Bi service, request access if needed:
@@ -37,7 +37,7 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ### Page 1: High-Level Market View
 
-[![Data Jobs Dashboard](images/dash1.png)](https://app.powerbi.com/groups/me/reports/e4c993be-4b4d-45b8-8f64-aa502b1bfa6a?ctid=cbb8585a-58be-4c67-a9e8-aa46ea967bb1&pbi_source=linkShare&bookmarkGuid=481be0bf-92d1-4e53-968c-93ecc5e68b0a)
+[![Data Jobs Dashboard](images/dash3.png)](https://app.powerbi.com/groups/me/reports/e4c993be-4b4d-45b8-8f64-aa502b1bfa6a?ctid=cbb8585a-58be-4c67-a9e8-aa46ea967bb1&pbi_source=linkShare&bookmarkGuid=481be0bf-92d1-4e53-968c-93ecc5e68b0a)
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
